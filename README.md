@@ -18,7 +18,6 @@ This project is designed for **educational purposes** to demonstrate how to buil
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/your-username/todo-app-c.git
 cd todo-app-c
 
@@ -30,17 +29,14 @@ Copy
 Edit
 gcc todo.c -o todo -lws2_32
 3. Run the Server
-bash
-Copy
-Edit
+
 .\todo
 4. View in Browser
 Open your browser and visit:
 
-arduino
-Copy
-Edit
+
 http://localhost:8080
+
 You should see a Hello, World! HTML response.
 
 📋 Prerequisites
