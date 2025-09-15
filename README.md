@@ -18,6 +18,7 @@ This project is designed for **educational purposes** to demonstrate how to buil
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
+ bash ``
 git clone https://github.com/your-username/todo-app-c.git
 cd todo-app-c
 
@@ -36,6 +37,7 @@ Open your browser and visit:
 
 
 http://localhost:8080
+``
 
 You should see a Hello, World! HTML response.
 
